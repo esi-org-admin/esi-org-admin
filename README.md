@@ -12,10 +12,6 @@
 ![CSS Badge](https://img.shields.io/badge/CSS-3-blue)  
 ![Python Badge](https://img.shields.io/badge/Python-3.9-blue)  
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6-yellow)  
-![Solidity Badge](https://img.shields.io/badge/Solidity-0.8-darkblue)  
-![Next.js Badge](https://img.shields.io/badge/Next.js-Framework-lightgrey)  
-![Hardhat Badge](https://img.shields.io/badge/Hardhat-Blockchain-blue)  
-![Remix IDE Badge](https://img.shields.io/badge/Remix_IDE-Online_Editor-green)  
 ![VS Code Badge](https://img.shields.io/badge/VS%20Code-Editor-blue)  
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-IDE-purple)
 
